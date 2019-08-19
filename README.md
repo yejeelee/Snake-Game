@@ -18,3 +18,4 @@ For example, when it reaches right-most edge, snake will start to appear from th
 - Shows score
 - Game Over: when snake collide itself
 
+The game can be viewed [here] (https://yejeelee.github.io/Snake-Game/).
